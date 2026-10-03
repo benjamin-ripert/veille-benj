@@ -3,9 +3,9 @@
   <channel>
     <title>IA | BDM</title>
     <link>https://benjamin-ripert.github.io/veille-benj/</link>
-    <description>Veille IA — les 12 premières actualités de la page IA de BDM, extraites de son HTML.</description>
+    <description>Veille sur les enjeux écologiques de l’intelligence artificielle — sélection parmi les 12 premières actualités de BDM.</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 03 Oct 2026 19:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:25:24 GMT</lastBuildDate>
     <atom:link href="https://benjamin-ripert.github.io/veille-benj/veille-benj.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://benjamin-ripert.github.io/veille-benj/rss.png</url>
@@ -15,33 +15,6 @@
       <height>96</height>
     </image>
     <item>
-      <title>ChatGPT, Claude, Muse : quelle IA collecte le plus de données personnelles ?</title>
-      <link>https://www.blogdumoderateur.com/chatgpt-claude-muse-ia-collecte-plus-donnees-personnelles/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/chatgpt-claude-muse-ia-collecte-plus-donnees-personnelles/</guid>
-      <pubDate>Fri, 02 Oct 2026 08:24:15 GMT</pubDate>
-      <category>Données personnelles</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/10/surfshark-collecte-donnees-IA-294x154.jpg" alt="ChatGPT, Claude, Muse : quelle IA collecte le plus de données personnelles ?" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Avec 31 types de données sur 35, Muse, l&amp;#x27;agent IA de Meta, est l&amp;#x27;un des plus gourmands en termes de données collectées, selon le dernier [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/10/surfshark-collecte-donnees-IA-294x154.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Peut-on encore échapper aux affiches générées par IA ?</title>
-      <link>https://www.blogdumoderateur.com/peut-on-encore-echapper-affiches-generees-ia/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/peut-on-encore-echapper-affiches-generees-ia/</guid>
-      <pubDate>Fri, 02 Oct 2026 05:00:21 GMT</pubDate>
-      <category>Culture web</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/Affiches-IA-2026-294x154.jpg" alt="Peut-on encore échapper aux affiches générées par IA ?" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;L&amp;#x27;esthétique des affiches IA colonise peu à peu l&amp;#x27;espace public et tire la culture visuelle vers le bas. Peut-on encore stopper l&amp;#x27;invasion du mauvais goût [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/Affiches-IA-2026-294x154.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Gemini 4 Argon : capacités, prix, accès… ce que l’on sait du nouveau modèle de Google</title>
-      <link>https://www.blogdumoderateur.com/gemini-4-argon-capacites-prix-acces/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/gemini-4-argon-capacites-prix-acces/</guid>
-      <pubDate>Thu, 01 Oct 2026 08:33:56 GMT</pubDate>
-      <category>Gemini</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/10/Google-Gemini4-Argon-276x144.jpg" alt="Gemini 4 Argon : capacités, prix, accès… ce que l’on sait du nouveau modèle de Google" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Accessible pour l&amp;#x27;instant via le programme Fairwind, Gemini 4 Argon sera ensuite proposé en priorité aux clients payants de l&amp;#x27;API et aux abonnés Google AI [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/10/Google-Gemini4-Argon-276x144.jpg" medium="image" />
-    </item>
-    <item>
       <title>L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030</title>
       <link>https://www.blogdumoderateur.com/empreinte-environnementale-ia-multipliee-par-7-2030/</link>
       <guid isPermaLink="true">https://www.blogdumoderateur.com/empreinte-environnementale-ia-multipliee-par-7-2030/</guid>
@@ -49,78 +22,6 @@
       <category>Étude</category>
       <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/Green-IT-etude-impact-une-276x144.jpg" alt="L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;De 13 à 25 millions de GPU, de 174 à 1 169 TWh par an : l&amp;#x27;association Green IT modélise la croissance des data centers [...]</description>
       <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/Green-IT-etude-impact-une-276x144.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Le résumé des annonces d’OpenAI lors du DevDay 2026 : dots, ChatGPT Space, Codex…</title>
-      <link>https://www.blogdumoderateur.com/resume-annonces-openai-devday-2026/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/resume-annonces-openai-devday-2026/</guid>
-      <pubDate>Wed, 30 Sep 2026 09:33:00 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/openai-devday-2026-276x144.jpg" alt="Le résumé des annonces d’OpenAI lors du DevDay 2026 : dots, ChatGPT Space, Codex…" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Au menu : des agents IA qui &amp;quot;œuvrent en permanence à vos côtés&amp;quot;, un modèle qui frôle les performances de GPT-6 Astra pour un coût [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/openai-devday-2026-276x144.jpg" medium="image" />
-    </item>
-    <item>
-      <title>OpenAI lance les dots, des agents IA autonomes connectés à plus de 4 000 applications</title>
-      <link>https://www.blogdumoderateur.com/openai-dots-agents-ia-autonomes/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/openai-dots-agents-ia-autonomes/</guid>
-      <pubDate>Wed, 30 Sep 2026 08:43:19 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/Dots-OpenAI-276x144.jpg" alt="OpenAI lance les dots, des agents IA autonomes connectés à plus de 4 000 applications" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Après Muse de Meta, OpenAI dégaine à son tour un agent IA conçu pour travailler en permanence, même quand ChatGPT est fermé.</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/Dots-OpenAI-276x144.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ChatGPT Space, Pages et slides : OpenAI dessine sa propre suite bureautique</title>
-      <link>https://www.blogdumoderateur.com/chatgpt-space-pages-slides-openai-dessine-suite-bureautique/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/chatgpt-space-pages-slides-openai-dessine-suite-bureautique/</guid>
-      <pubDate>Wed, 30 Sep 2026 08:42:01 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/ChatGPT-Space-OpenAI-276x144.jpg" alt="ChatGPT Space, Pages et slides : OpenAI dessine sa propre suite bureautique" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Des documents qui se mettent à jour à partir des outils connectés, des présentations éditées à plusieurs et un espace partagé avec les agents IA [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/ChatGPT-Space-OpenAI-276x144.jpg" medium="image" />
-    </item>
-    <item>
-      <title>GPT-6.1 Sol : performances, tarifs et disponibilité du nouveau modèle d’OpenAI</title>
-      <link>https://www.blogdumoderateur.com/gpt-6-1-sol-performances-tarifs-disponibilite-nouveau-modele-openai/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/gpt-6-1-sol-performances-tarifs-disponibilite-nouveau-modele-openai/</guid>
-      <pubDate>Wed, 30 Sep 2026 08:38:18 GMT</pubDate>
-      <category>OpenAI</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/GPT-6-1-Sol-276x144.jpg" alt="GPT-6.1 Sol : performances, tarifs et disponibilité du nouveau modèle d’OpenAI" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Une semaine après la sortie de GPT-6 Sol, OpenAI dévoile une version améliorée qui égale Astra sur certains tests de code. Le tarif ne change [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/GPT-6-1-Sol-276x144.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Super Intelligence : comment Donald Trump a fait exploser les noms de domaine slovènes</title>
-      <link>https://www.blogdumoderateur.com/super-intelligence-donald-trump-noms-domaine-slovenes/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/super-intelligence-donald-trump-noms-domaine-slovenes/</guid>
-      <pubDate>Wed, 30 Sep 2026 07:32:24 GMT</pubDate>
-      <category>Culture web</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/super-intelligence-trump-slovenie-276x144.jpeg" alt="Super Intelligence : comment Donald Trump a fait exploser les noms de domaine slovènes" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Après le golfe du Mexique ou le lac Ontario, c&amp;#x27;est au tour de l&amp;#x27;intelligence artificielle d&amp;#x27;être rebaptisée par Donald Trump. Le changement de vocabulaire fait [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/super-intelligence-trump-slovenie-276x144.jpeg" medium="image" />
-    </item>
-    <item>
-      <title>Google déploie massivement son option de veille dans l’AI Mode</title>
-      <link>https://www.blogdumoderateur.com/google-deploie-option-veille-ai-mode/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/google-deploie-option-veille-ai-mode/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:00:37 GMT</pubDate>
-      <category>Google</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/Google-AI-Mode-veille-276x144.jpg" alt="Google déploie massivement son option de veille dans l’AI Mode" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Google étend à tous les utilisateurs et utilisatrices d&amp;#x27;AI Mode la possibilité de confier le suivi d&amp;#x27;un sujet au moteur de recherche. Une notification signale [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/Google-AI-Mode-veille-276x144.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Muse for Small Business : Meta décline son agent IA pour les petites entreprises</title>
-      <link>https://www.blogdumoderateur.com/meta-muse-for-small-business-agent-ia-petites-entreprises/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/meta-muse-for-small-business-agent-ia-petites-entreprises/</guid>
-      <pubDate>Tue, 29 Sep 2026 14:53:37 GMT</pubDate>
-      <category>Meta</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/muse-small-business-276x144.jpg" alt="Muse for Small Business : Meta décline son agent IA pour les petites entreprises" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Encore indisponible en France, l&amp;#x27;agent IA de Meta peut désormais réaliser des tâches ciblées pour les TPE et les PME, principalement grâce à de nouveaux [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/muse-small-business-276x144.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Nvidia lance une plateforme pour garder le contrôle sur les agents IA</title>
-      <link>https://www.blogdumoderateur.com/nvidia-lance-plateforme-garder-controle-agents-ia/</link>
-      <guid isPermaLink="true">https://www.blogdumoderateur.com/nvidia-lance-plateforme-garder-controle-agents-ia/</guid>
-      <pubDate>Tue, 29 Sep 2026 09:16:53 GMT</pubDate>
-      <category>Cybersécurité</category>
-      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/nvidia-open-agent-safety-platform-276x144.jpg" alt="Nvidia lance une plateforme pour garder le contrôle sur les agents IA" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Pour Nvidia, la sécurité des agents IA est avant tout un problème technique. Le fournisseur de puces des grands laboratoires propose sa propre parade, qui [...]</description>
-      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/nvidia-open-agent-safety-platform-276x144.jpg" medium="image" />
     </item>
   </channel>
 </rss>
