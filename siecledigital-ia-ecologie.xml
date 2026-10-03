@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Siècle Digital | IA Ecologie</title>
+    <link>https://benjamin-ripert.github.io/veille-benj/</link>
+    <description>Veille sur les enjeux écologiques de l’intelligence artificielle — sélection parmi les 12 premières actualités de la rubrique IA de Siècle Digital.</description>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 03 Oct 2026 22:49:25 GMT</lastBuildDate>
+    <atom:link href="https://benjamin-ripert.github.io/veille-benj/siecledigital-ia-ecologie.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://benjamin-ripert.github.io/veille-benj/rss.png</url>
+      <title>Siècle Digital | IA Ecologie</title>
+      <link>https://benjamin-ripert.github.io/veille-benj/</link>
+      <width>96</width>
+      <height>96</height>
+    </image>
+  </channel>
+</rss>
