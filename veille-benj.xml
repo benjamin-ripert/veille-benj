@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>Veille Benj.</title>
+    <title>IA | BDM</title>
     <link>https://benjamin-ripert.github.io/veille-benj/</link>
     <description>Veille IA — les 12 premières actualités de la page IA de BDM, extraites de son HTML.</description>
     <language>fr-FR</language>
@@ -9,7 +9,7 @@
     <atom:link href="https://benjamin-ripert.github.io/veille-benj/veille-benj.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://benjamin-ripert.github.io/veille-benj/rss.png</url>
-      <title>Veille Benj.</title>
+      <title>IA | BDM</title>
       <link>https://benjamin-ripert.github.io/veille-benj/</link>
       <width>96</width>
       <height>96</height>

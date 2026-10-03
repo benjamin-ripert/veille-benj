@@ -1,11 +1,12 @@
 # Veille Benj.
 
-Premier test RSS : 12 premières actualités extraites exclusivement du HTML de https://www.blogdumoderateur.com/ia/.
+Deux flux de test extraits uniquement des pages web, sans utiliser les flux RSS des éditeurs ni ouvrir les articles.
 
-- Flux : https://benjamin-ripert.github.io/veille-benj/veille-benj.xml
-- Icône : https://benjamin-ripert.github.io/veille-benj/rss.png
-- Aperçu indicatif : https://benjamin-ripert.github.io/veille-benj/
+- IA | BDM : https://benjamin-ripert.github.io/veille-benj/veille-benj.xml
+- IA | Le Monde : https://benjamin-ripert.github.io/veille-benj/ia-lemonde.xml
 
-Ces adresses fonctionnent après activation de GitHub Pages sur la branche main, dossier racine.
+Chaque flux contient les 12 premières actualités dans l’ordre de sa page source : titre, extrait, image, lien et date. Les images restent hébergées par les éditeurs. L’icône rss.png est commune.
 
-Le contenu est un instantané. Onze extraits sur douze sont tronqués dans le HTML source. Aucun appel au flux RSS d’origine, aux pages individuelles ou à un LLM. Les liens et les images renvoient à BDM. L’automatisation n8n n’est pas encore installée.
+Sources : https://www.blogdumoderateur.com/ia/ et https://www.lemonde.fr/intelligence-artificielle/.
+
+Ces fichiers sont des instantanés. BDM fournit 11 extraits tronqués sur 12. Le Monde nécessite actuellement une lecture dans un navigateur ; une requête HTTP directe renvoie une page de vérification. Sa date de publication est obtenue depuis l’URL et l’heure affichée sur la carte, avec le fuseau Europe/Paris. La collecte automatique n8n n’est pas encore installée.

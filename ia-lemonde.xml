@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>IA | Le Monde</title>
+    <link>https://benjamin-ripert.github.io/veille-benj/</link>
+    <description>Les 12 premières actualités de la rubrique Intelligence artificielle du Monde, extraites de sa page web.</description>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 03 Oct 2026 19:51:02 GMT</lastBuildDate>
+    <atom:link href="https://benjamin-ripert.github.io/veille-benj/ia-lemonde.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://benjamin-ripert.github.io/veille-benj/rss.png</url>
+      <title>IA | Le Monde</title>
+      <link>https://benjamin-ripert.github.io/veille-benj/</link>
+      <width>96</width>
+      <height>96</height>
+    </image>
+    <item>
+      <title>Quand des agents IA s’occuperont de nos achats en ligne, d’un panier de courses à un billet d’avion</title>
+      <link>https://www.lemonde.fr/economie/article/2026/10/03/comment-les-agents-ia-feront-les-courses-a-votre-place_6787530_3234.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/10/03/comment-les-agents-ia-feront-les-courses-a-votre-place_6787530_3234.html</guid>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 GMT</pubDate>
+      <category>Décryptage</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/10/01/2/0/3094/2062/780/520/60/0/70ccd0c_upload-1-c8gmidcv1ohq-le-monde-30092026.jpg" alt="Quand des agents IA s’occuperont de nos achats en ligne, d’un panier de courses à un billet d’avion" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Les Français pourront bientôt déléguer leurs achats à des robots. L’absence de cadre réglementaire inquiète tous les acteurs, des commerçants aux banques en passant par les consommateurs.</description>
+      <media:content url="https://img.lemde.fr/2026/10/01/2/0/3094/2062/780/520/60/0/70ccd0c_upload-1-c8gmidcv1ohq-le-monde-30092026.jpg" medium="image" />
+    </item>
+    <item>
+      <title>IA et littérature : l’affaire Thélyson Orélien en huit tribunes parues dans « Le Monde »</title>
+      <link>https://www.lemonde.fr/idees/article/2026/10/03/ia-et-litterature-l-affaire-thelyson-orelien-en-huit-tribunes-parues-dans-le-monde_6787494_3232.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/idees/article/2026/10/03/ia-et-litterature-l-affaire-thelyson-orelien-en-huit-tribunes-parues-dans-le-monde_6787494_3232.html</guid>
+      <pubDate>Sat, 03 Oct 2026 03:30:00 GMT</pubDate>
+      <category>Sélection</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/09/25/1/0/7488/4992/780/520/60/0/3ece5dd_ftp-1-apy8utfp16al-5179391-01-06.jpg" alt="IA et littérature : l’affaire Thélyson Orélien en huit tribunes parues dans « Le Monde »" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;L’idée que le grand succès de la rentrée littéraire, « C’était ça ou mourir », ait pu être écrit par de l’intelligence artificielle a suscité de très nombreuses réactions. Qu’est-ce qu’un écrivain ? Quelle responsabilité pour la critique ? Quel avenir pour la littérature ? Les points de vue de spécialistes publiés par « Le Monde » alimentent la réflexion.</description>
+      <media:content url="https://img.lemde.fr/2026/09/25/1/0/7488/4992/780/520/60/0/3ece5dd_ftp-1-apy8utfp16al-5179391-01-06.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Aux Etats-Unis, la croissance reste vive mais elle crée moins d’emplois</title>
+      <link>https://www.lemonde.fr/economie/article/2026/10/02/aux-etats-unis-la-croissance-reste-vive-mais-elle-cree-moins-d-emplois_6787222_3234.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/10/02/aux-etats-unis-la-croissance-reste-vive-mais-elle-cree-moins-d-emplois_6787222_3234.html</guid>
+      <pubDate>Fri, 02 Oct 2026 20:45:00 GMT</pubDate>
+      <category>Décryptage</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/10/02/0/0/7803/5202/780/520/60/0/5ca1280_upload-1-v7zxc7nk05wz-000-c3j43an.jpg" alt="Aux Etats-Unis, la croissance reste vive mais elle crée moins d’emplois" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Le pays n’a généré que 29 000 postes au mois de septembre, bien en dessous des 80 000 anticipés par les analystes. Le secteur du soin a porté l’essentiel de ces créations quand celui des services financiers continue de plonger en la matière.</description>
+      <media:content url="https://img.lemde.fr/2026/10/02/0/0/7803/5202/780/520/60/0/5ca1280_upload-1-v7zxc7nk05wz-000-c3j43an.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Etats-Unis : Donald Trump s’apprête à confier le dossier de l’IA au chef du renseignement américain, Jay Clayton</title>
+      <link>https://www.lemonde.fr/pixels/article/2026/10/02/etats-unis-donald-trump-s-apprete-a-confier-le-dossier-de-l-ia-au-chef-du-renseignement-americain-jay-clayton_6787221_4408996.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/pixels/article/2026/10/02/etats-unis-donald-trump-s-apprete-a-confier-le-dossier-de-l-ia-au-chef-du-renseignement-americain-jay-clayton_6787221_4408996.html</guid>
+      <pubDate>Fri, 02 Oct 2026 20:33:00 GMT</pubDate>
+      <description>&lt;img src="https://img.lemde.fr/2026/10/02/0/0/5236/3491/780/520/60/0/567b722_upload-1-jjlp5qwxvwh2-000-c2a48nt.jpg" alt="Etats-Unis : Donald Trump s’apprête à confier le dossier de l’IA au chef du renseignement américain, Jay Clayton" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Alors que les inquiétudes grandissent quant à la maîtrise de cette technologie, le président américain penche pour l’ancien patron du gendarme boursier américain malgré son absence d’expérience dans le domaine de la tech.</description>
+      <media:content url="https://img.lemde.fr/2026/10/02/0/0/5236/3491/780/520/60/0/567b722_upload-1-jjlp5qwxvwh2-000-c2a48nt.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Bull, de nouveau dans le giron de l’Etat, mise sur l’IA et le regain de souveraineté numérique</title>
+      <link>https://www.lemonde.fr/economie/article/2026/10/02/bull-de-nouveau-dans-le-giron-de-l-etat-mise-sur-l-ia-et-le-regain-de-souverainete-numerique_6787181_3234.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/10/02/bull-de-nouveau-dans-le-giron-de-l-etat-mise-sur-l-ia-et-le-regain-de-souverainete-numerique_6787181_3234.html</guid>
+      <pubDate>Fri, 02 Oct 2026 15:30:00 GMT</pubDate>
+      <category>Reportage</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/10/02/0/0/8192/5461/780/520/60/0/a004181_upload-1-oxfa16lh6eqx-000-b3ph2td.jpg" alt="Bull, de nouveau dans le giron de l’Etat, mise sur l’IA et le regain de souveraineté numérique" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Nationalisée en mars, l’ancienne filiale d’Atos a doublé la taille de son usine de production de supercalculateurs d’Angers pour répondre à l’essor de l’intelligence artificielle.</description>
+      <media:content url="https://img.lemde.fr/2026/10/02/0/0/8192/5461/780/520/60/0/a004181_upload-1-oxfa16lh6eqx-000-b3ph2td.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Monique Canto-Sperber, philosophe : « Un livre écrit par une IA, quand il ne se désigne pas comme tel, revient à tromper le lecteur sur la nature même de l’écrit »</title>
+      <link>https://www.lemonde.fr/idees/article/2026/10/02/monique-canto-sperber-philosophe-un-livre-ecrit-par-une-ia-quand-il-ne-se-designe-pas-comme-tel-revient-a-tromper-le-lecteur-sur-la-nature-meme-de-l-ecrit_6787160_3232.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/idees/article/2026/10/02/monique-canto-sperber-philosophe-un-livre-ecrit-par-une-ia-quand-il-ne-se-designe-pas-comme-tel-revient-a-tromper-le-lecteur-sur-la-nature-meme-de-l-ecrit_6787160_3232.html</guid>
+      <pubDate>Fri, 02 Oct 2026 14:30:00 GMT</pubDate>
+      <category>Tribune</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/02/25/0/0/1500/1000/780/520/60/0/7fa8858_upload-1-q4cvncicemxh-frame-837.jpg" alt="Monique Canto-Sperber, philosophe : « Un livre écrit par une IA, quand il ne se désigne pas comme tel, revient à tromper le lecteur sur la nature même de l’écrit »" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;En écho à l’affaire Thélyson Orélien, l’autrice de « La Fin de la culture française » propose, dans une tribune au « Monde », d’apposer dorénavant sur les livres une déclaration de l’auteur afin de sécuriser le lien avec son lecteur et l’économie du secteur.</description>
+      <media:content url="https://img.lemde.fr/2026/02/25/0/0/1500/1000/780/520/60/0/7fa8858_upload-1-q4cvncicemxh-frame-837.jpg" medium="image" />
+    </item>
+    <item>
+      <title>« L’affaire Thélyson Orélien ébranle à la fois le privilège de certains de dire ce qu’est l’art, et l’image de l’artiste comme individu extraordinaire »</title>
+      <link>https://www.lemonde.fr/idees/article/2026/10/02/l-affaire-thelyson-orelien-ebranle-a-la-fois-le-privilege-de-certains-de-dire-ce-qu-est-l-art-et-l-image-de-l-artiste-comme-individu-extraordinaire_6787123_3232.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/idees/article/2026/10/02/l-affaire-thelyson-orelien-ebranle-a-la-fois-le-privilege-de-certains-de-dire-ce-qu-est-l-art-et-l-image-de-l-artiste-comme-individu-extraordinaire_6787123_3232.html</guid>
+      <pubDate>Fri, 02 Oct 2026 10:00:00 GMT</pubDate>
+      <category>Tribune</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/02/25/0/0/1500/1000/780/520/60/0/7fa8858_upload-1-q4cvncicemxh-frame-837.jpg" alt="« L’affaire Thélyson Orélien ébranle à la fois le privilège de certains de dire ce qu’est l’art, et l’image de l’artiste comme individu extraordinaire »" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;L’intelligence artificielle menace, non pas seulement la profession d’écrivain, mais aussi un monde social qui se pense comme le plus légitime à distinguer ce qui mérite le nom d’art, estime le sociologue Fabrice Raffin, dans une tribune au « Monde ».</description>
+      <media:content url="https://img.lemde.fr/2026/02/25/0/0/1500/1000/780/520/60/0/7fa8858_upload-1-q4cvncicemxh-frame-837.jpg" medium="image" />
+    </item>
+    <item>
+      <title>IA dans la littérature : prompter, c’est tromper ?</title>
+      <link>https://www.lemonde.fr/podcasts/article/2026/10/02/ia-dans-la-litterature-prompter-c-est-tromper_6786792_5463015.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/podcasts/article/2026/10/02/ia-dans-la-litterature-prompter-c-est-tromper_6786792_5463015.html</guid>
+      <pubDate>Fri, 02 Oct 2026 03:00:00 GMT</pubDate>
+      <category>Podcast</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/10/01/0/0/1800/1200/780/520/60/0/e73578b_upload-1-pk3l3qjerarg-ia-litt.png" alt="IA dans la littérature : prompter, c’est tromper ?" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Après la suppression de Thélyson Orélien de la liste des finalistes du prix Goncourt, car l’auteur est soupçonné d’avoir écrit son roman à l’aide de l’intelligence artificielle, ce podcast s’interroge sur la transformation du monde littéraire à l’ère de l’IA, avec Michaël Szadkowski et Nicolas Six, journalistes au service Pixels du « Monde ».</description>
+      <media:content url="https://img.lemde.fr/2026/10/01/0/0/1800/1200/780/520/60/0/e73578b_upload-1-pk3l3qjerarg-ia-litt.png" medium="image" />
+    </item>
+    <item>
+      <title>OpenAI licencie trois chercheurs en sécurité accusés de fuites d’informations sensibles</title>
+      <link>https://www.lemonde.fr/pixels/article/2026/10/02/openai-exclut-trois-chercheurs-en-securite-de-l-ia-accuses-de-fuites-d-informations-sensibles_6786658_4408996.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/pixels/article/2026/10/02/openai-exclut-trois-chercheurs-en-securite-de-l-ia-accuses-de-fuites-d-informations-sensibles_6786658_4408996.html</guid>
+      <pubDate>Fri, 02 Oct 2026 00:02:00 GMT</pubDate>
+      <description>&lt;img src="https://img.lemde.fr/2026/09/29/0/0/5088/3392/780/520/60/0/89ddcaf_ftp-1-xv5nmpvvmhxi-5221697-01-06.jpg" alt="OpenAI licencie trois chercheurs en sécurité accusés de fuites d’informations sensibles" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;La start-up fait état de plusieurs manquements, dont l’un concerne des informations communiquées à un groupe extérieur chargé d’évaluer l’intelligence artificielle.</description>
+      <media:content url="https://img.lemde.fr/2026/09/29/0/0/5088/3392/780/520/60/0/89ddcaf_ftp-1-xv5nmpvvmhxi-5221697-01-06.jpg" medium="image" />
+    </item>
+    <item>
+      <title>IA militaire : la France à l’assaut de la domination américaine sur les réseaux classifiés de l’OTAN</title>
+      <link>https://www.lemonde.fr/international/article/2026/10/01/ia-militaire-la-france-a-l-assaut-de-la-domination-americaine-sur-les-reseaux-classifies-de-l-otan_6786550_3210.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/international/article/2026/10/01/ia-militaire-la-france-a-l-assaut-de-la-domination-americaine-sur-les-reseaux-classifies-de-l-otan_6786550_3210.html</guid>
+      <pubDate>Thu, 01 Oct 2026 15:34:00 GMT</pubDate>
+      <category>Décryptage</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/09/30/0/209/999/666/780/520/60/0/5b962a6_upload-1-tstvfff72kfw-datacenter-commissariat-nume-rique-de-fense-forteresse-mont-vale-rien-2024-1.PNG" alt="IA militaire : la France à l’assaut de la domination américaine sur les réseaux classifiés de l’OTAN" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Le projet Arcadia, présenté le 29 septembre, vise à fusionner massivement les données des armées françaises pour accroître leur efficacité opérationnelle. Une âpre bataille est lancée contre les groupes américains Palantir et Anduril dans le cadre de la modernisation des structures de l’Alliance atlantique.</description>
+      <media:content url="https://img.lemde.fr/2026/09/30/0/209/999/666/780/520/60/0/5b962a6_upload-1-tstvfff72kfw-datacenter-commissariat-nume-rique-de-fense-forteresse-mont-vale-rien-2024-1.PNG" medium="image" />
+    </item>
+    <item>
+      <title>« Avec l’IA, la question de l’autonomie cognitive de l’Europe devient particulièrement urgente »</title>
+      <link>https://www.lemonde.fr/idees/article/2026/10/01/avec-l-ia-la-question-de-l-autonomie-cognitive-de-l-europe-devient-particulierement-urgente_6786502_3232.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/idees/article/2026/10/01/avec-l-ia-la-question-de-l-autonomie-cognitive-de-l-europe-devient-particulierement-urgente_6786502_3232.html</guid>
+      <pubDate>Thu, 01 Oct 2026 10:47:00 GMT</pubDate>
+      <category>Tribune</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/02/25/0/0/1500/1000/780/520/60/0/74736ce_upload-1-1q1lcx7t5zad-frame-1190.jpg" alt="« Avec l’IA, la question de l’autonomie cognitive de l’Europe devient particulièrement urgente »" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;Face aux enjeux numériques et technologiques, la puissance de l’Europe ne résidera pas dans une logique autarcique, mais dans sa capacité à choisir ses interdépendances, estiment trois spécialistes de l’Europe dans une tribune au « Monde ».</description>
+      <media:content url="https://img.lemde.fr/2026/02/25/0/0/1500/1000/780/520/60/0/74736ce_upload-1-1q1lcx7t5zad-frame-1190.jpg" medium="image" />
+    </item>
+    <item>
+      <title>IA : « Après l’artisan, c’est au tour du travailleur intellectuel d’être confronté à la perte de maîtrise de ses moyens cognitifs de production »</title>
+      <link>https://www.lemonde.fr/idees/article/2026/10/01/ia-apres-l-artisan-c-est-au-tour-du-travailleur-intellectuel-d-etre-confronte-a-la-perte-de-maitrise-de-ses-moyens-cognitifs-de-production_6786477_3232.html</link>
+      <guid isPermaLink="true">https://www.lemonde.fr/idees/article/2026/10/01/ia-apres-l-artisan-c-est-au-tour-du-travailleur-intellectuel-d-etre-confronte-a-la-perte-de-maitrise-de-ses-moyens-cognitifs-de-production_6786477_3232.html</guid>
+      <pubDate>Thu, 01 Oct 2026 08:30:00 GMT</pubDate>
+      <category>Tribune</category>
+      <description>&lt;img src="https://img.lemde.fr/2026/02/25/0/0/1500/1000/780/520/60/0/bd897a3_upload-1-zun3op6vlqwr-frame-1411.jpg" alt="IA : « Après l’artisan, c’est au tour du travailleur intellectuel d’être confronté à la perte de maîtrise de ses moyens cognitifs de production »" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;L’accroissement de la puissance des grands modèles de langage risque d’entraîner la même déqualification de la production intellectuelle que celle qui frappa, au XIXᵉ siècle, les savoir-faire des artisans, prévient l’historien Renaud Soler, dans une tribune au « Monde ».</description>
+      <media:content url="https://img.lemde.fr/2026/02/25/0/0/1500/1000/780/520/60/0/bd897a3_upload-1-zun3op6vlqwr-frame-1411.jpg" medium="image" />
+    </item>
+  </channel>
+</rss>
