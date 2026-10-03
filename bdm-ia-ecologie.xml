@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>BDM | IA Ecologie</title>
+    <link>https://benjamin-ripert.github.io/veille-benj/</link>
+    <description>Veille sur les enjeux écologiques de l’intelligence artificielle — sélection parmi les 12 premières actualités de BDM.</description>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 03 Oct 2026 20:40:28 GMT</lastBuildDate>
+    <atom:link href="https://benjamin-ripert.github.io/veille-benj/bdm-ia-ecologie.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://benjamin-ripert.github.io/veille-benj/rss.png</url>
+      <title>BDM | IA Ecologie</title>
+      <link>https://benjamin-ripert.github.io/veille-benj/</link>
+      <width>96</width>
+      <height>96</height>
+    </image>
+    <item>
+      <title>L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030</title>
+      <link>https://www.blogdumoderateur.com/empreinte-environnementale-ia-multipliee-par-7-2030/</link>
+      <guid isPermaLink="true">https://www.blogdumoderateur.com/empreinte-environnementale-ia-multipliee-par-7-2030/</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:47 GMT</pubDate>
+      <category>Étude</category>
+      <description>&lt;img src="https://f.hellowork.com/blogdumoderateur/2026/09/Green-IT-etude-impact-une-276x144.jpg" alt="L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030" style="display:block;margin-bottom:5px;width:100%;height:auto"&gt;De 13 à 25 millions de GPU, de 174 à 1 169 TWh par an : l&amp;#x27;association Green IT modélise la croissance des data centers [...]</description>
+      <media:content url="https://f.hellowork.com/blogdumoderateur/2026/09/Green-IT-etude-impact-une-276x144.jpg" medium="image" />
+    </item>
+  </channel>
+</rss>
